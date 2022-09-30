@@ -120,8 +120,14 @@ figure div img{
   margin-bottom: 1.25em;
 }
 
+footer a, p{
+  font-size: 0.8em;
+  padding: 0.25em;
+}
+
 header, footer {
 color: white;
 background-color: #3D6271;
 margin: 0em 4em 0.5em 4em;
+padding: 0.25em;
 }
