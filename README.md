@@ -53,4 +53,4 @@ tamaños de las fuentes, el relleno o los márgenes).
 
 Los resultados del ejercicio se muestra en la carpeta de resultados:
 
-[(https://github.com/KarinaJoanna/Actividad-6/tree/main/resultados)]
+[(https://github.com/KarinaJoanna/Practica-5/tree/main/resultados)]
