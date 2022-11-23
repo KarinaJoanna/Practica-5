@@ -31,8 +31,7 @@ Estas son algunos de los programas que se utilizaron y sus extensiones.
 2. Cree una hoja de estilo externa llamada reset.css que elimine todo el formato del navegador de los principales elementos HTML y haga la referencia dentro de
 index.html como sigue:
 
-html, body, header, footer, hgroup, nav, article, section, figure
-figcaption, h1, h2, h3, ul, li, body, div, p, img
+html, body, header, footer, hgroup, nav, article, section, figure figcaption, h1, h2, h3, ul, li, body, div, p, img
 {
 margin: 0;
 padding: 0;
