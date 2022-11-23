@@ -3,7 +3,7 @@
 
 ### Actividad 7
 
-Este proyecto actualiza el proyecto existente (practica 2) para añadir algunas mejoras estilísticas visuales con CSS.
+Este proyecto actualiza el proyecto existente [(https://github.com/KarinaJoanna/Practica-5/tree/main/practica2)] para añadir algunas mejoras estilísticas visuales con CSS.
 
 ### Built With
 
